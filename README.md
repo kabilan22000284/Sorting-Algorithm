@@ -70,6 +70,11 @@ print(new_nums)
 ```
 
 ## Output:
+1.selection sort
+![Screenshot (45)](https://github.com/kabilan22000284/Sorting-Algorithm/assets/123469171/570dcc97-d690-4f2d-b30a-34b01ca2cfff)
+2.insertion sort
+![Screenshot (46)](https://github.com/kabilan22000284/Sorting-Algorithm/assets/123469171/63a0e1d4-ab21-4f1e-94f0-393432c6ca75)
+
 
 
 ## Result:
